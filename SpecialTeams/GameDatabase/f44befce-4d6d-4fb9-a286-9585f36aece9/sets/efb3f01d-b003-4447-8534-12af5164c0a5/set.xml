@@ -1,0 +1,269 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Special Teams" id="efb3f01d-b003-4447-8534-12af5164c0a5" gameId="f44befce-4d6d-4fb9-a286-9585f36aece9" gameVersion="0.0.0.1" version="0.0.0.1">
+  <cards>
+
+<card id="e97b7789-32d4-468d-bc79-4d16d91c031e" name="Card" size="Small">
+<property name="Card Number" value="X:1"/>
+<property name="Type" value="Action" />
+<property name="Green Pips" value="1" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+
+<card id="c051fde9-3c21-43a7-aae9-3b46e240bd4d" name="Card" size="Small">
+<property name="Card Number" value="X:1"/>
+<property name="Type" value="Action" />
+<property name="Green Pips" value="1" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+
+<card id="cd1251a7-9c2f-46fd-a44b-f36966f22c9c" name="Card" size="Small">
+<property name="Card Number" value="X:1"/>
+<property name="Type" value="Upgrade - Utility" />
+<property name="White Pips" value="1" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+
+<card id="0ac6c2fe-742e-4880-ad2f-8c093ee5b557" name="Card" size="Small">
+<property name="Card Number" value="X:1"/>
+<property name="Type" value="Upgrade - Utility" />
+<property name="Orange Pips" value="1" />
+<property name="DEF" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+
+
+<card id="6d4d42a2-394e-4bc1-968b-057c8d5d8b6a" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+
+<card id="649e65c6-7327-4fc6-bb15-c9a021e98852" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="b3655f2d-5ffb-48c3-ba9a-562c5422836d" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="b960629c-1919-473c-997c-0eb7606820fb" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="76b68e8c-85af-4352-a093-2c89ec76dda9" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="8d7c04fa-2af9-43b2-bf58-bbde6144dc8e" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="f1feddfc-ba50-435b-997a-3a954662f7f0" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="6b6860ab-f57c-4f2d-b330-bb300d1c8633" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="cf5e86a3-b228-42d9-8f27-1d3c040dff8f" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="d7e45b9e-7208-4564-8e57-ba8be64b703e" name="Bot" size="Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<alternate type="bot" name="Bot" size="Large">
+<property name="Type" value="Character - Bot Mode" />
+<property name="ATK" value="" />
+<property name="DEF" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+</alternate>
+<property name="Rarity" value="" />
+</card>
+
+<card id="e4094801-ee13-46cf-8c18-0ee882e82ed5" name="Bot" size="Extra Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+
+<card id="73b2a7de-0b87-4cac-9896-249b470671aa" name="Bot" size="Extra Large">
+<property name="Card Number" value="X:T01"/>
+<property name="Type" value="Character - Alt Mode" />
+<property name="Stars" value="1" />
+<property name="ATK" value="" />
+<property name="HP" value="" />
+<property name="DEF" value="" />
+<property name="Faction" value="" />
+<property name="Traits" value="" />
+<property name="Text" value="" />
+<property name="Rarity" value="" />
+</card>
+
+  </cards>
+</set>
